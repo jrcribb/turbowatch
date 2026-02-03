@@ -1,4 +1,4 @@
-> !DANGER
+> [!WARNING]
 >
 > Deprecated. You probably don't need turbowatch. Some alternatives: [`turbo watch`](https://turborepo.dev/docs/reference/watch) and [Tilt](https://tilt.dev/)
 
